@@ -2,13 +2,32 @@
 
 MediTwin is an AI-powered health companion application that provides personalized medicine insights based on user health profiles. It analyzes medications in the context of a user's specific health conditions, allergies, and current medications to deliver custom recommendations and safety information.
 
-## Project Overview
+## 📚 Project Overview
 
 This application consists of:
 - A Next.js frontend for user interaction
 - A Flask backend API that integrates with external services
 - Integration with Google's Gemini AI for personalized medicine analysis
 - OpenFDA API integration for drug information
+
+## 👨‍💻 Contributors
+
+- MediTwin Team
+Girish Bhuteja
+- 📧 [Email](mailto:girishbhuteja07@gmail.com@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/girishbhuteja0744/)
+
+Jiya Pandit
+- 📧 [Email](mailto:Jiyapandit01@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jiya-pandit01)
+
+Rudra Patel
+- 📧 [Email](mailto:patel.rudra@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rudrahere21/)
+
+Dheeraj Choudhary
+- 📧 [Email](mailto:dheeraj3choudhary@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dheeraj-choudhary/)
 
 ## Features
 
@@ -138,10 +157,6 @@ This application consists of:
 - Interaction detection between multiple medications
 - Export and sharing of medication analysis reports
 - Mobile application with push notifications
-
-## Contributors
-
-- MediTwin Team
 
 ## License
 
