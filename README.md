@@ -12,7 +12,6 @@ This application consists of:
 
 ## 👨‍💻 Contributors
 
-- MediTwin Team
 Girish Bhuteja
 - 📧 [Email](mailto:girishbhuteja07@gmail.com@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/girishbhuteja0744/)
@@ -29,28 +28,31 @@ Dheeraj Choudhary
 - 📧 [Email](mailto:dheeraj3choudhary@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dheeraj-choudhary/)
 
-## Features
+## 🎥 Presentation 
+Watch the full demo here: [Presentation](https://prezi.com/view/Yz6cawqzLxhU9cKdCx3j/)
 
-- User profile creation and management
-- Health condition and medication tracking
-- Personalized medicine analysis
-- Drug safety information tailored to individual health profiles
+## 🚀 Features
 
-## Tech Stack
+- ✅ User profile creation and management
+- ✅ Health condition and medication tracking
+- ✅ Personalized medicine analysis
+- ✅ Drug safety information tailored to individual health profiles
 
-### Frontend
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 - Next.js 15.2.1
 - React 19.0.0
 - Axios for API requests
 - Responsive design with custom CSS
 
-### Backend
+### 🔧 Backend
 - Flask with Flask-CORS
 - Google Generative AI (Gemini 1.5 Flash)
 - OpenFDA API integration
 - Python 3.x
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 ├── backend/
@@ -84,9 +86,9 @@ Dheeraj Choudhary
 │   └── package-lock.json
 ```
 
-## Setup and Installation
+## ⚙️ Setup and Installation
 
-### Backend Setup
+### 🔙 Backend Setup
 
 1. Navigate to the backend directory:
    ```
@@ -117,7 +119,7 @@ Dheeraj Choudhary
    python run.py
    ```
 
-### Frontend Setup
+### 🎭 Frontend Setup
 
 1. Navigate to the frontend directory:
    ```
@@ -136,7 +138,7 @@ Dheeraj Choudhary
 
 4. Access the application at `http://localhost:3000`
 
-## User Flow
+## 🔄 User Flow
 
 1. User creates an account with basic information
 2. User completes a health profile with conditions, allergies, and medications
@@ -144,13 +146,38 @@ Dheeraj Choudhary
 4. System analyzes the medication against user's health profile
 5. User receives personalized analysis results
 
-## API Endpoints
+## 📡 API Endpoints
 
 - `GET /` - API health check
 - `POST /user_profile` - Save user health profile
 - `POST /drug_analysis` - Analyze a medication for a specific user
 
-## Future Enhancements
+## ✨ Sample Screens
+
+- Welcome page
+
+![image](https://github.com/user-attachments/assets/93c6480a-f71c-46cc-9b13-f1a5484d4588)
+
+
+- Health Profile page
+
+![image](https://github.com/user-attachments/assets/f114b79f-fa2c-4921-8db2-dfd04354e57c)
+
+
+- Medicine Inquiry Page
+
+![image](https://github.com/user-attachments/assets/d4aac1ca-78a5-4ece-8346-6d0563ea1a60)
+
+- Result page
+
+![image](https://github.com/user-attachments/assets/99b5e00a-9444-4941-a0b7-3c8192deb678)
+
+- Architecture Diagram
+
+  ![image](https://github.com/user-attachments/assets/3f891321-4e17-4ae7-8723-8b89dd644b9f)
+
+
+## 🔮 Future Enhancements
 
 - User authentication with secure login
 - Medication scheduling and reminders
@@ -158,6 +185,6 @@ Dheeraj Choudhary
 - Export and sharing of medication analysis reports
 - Mobile application with push notifications
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
