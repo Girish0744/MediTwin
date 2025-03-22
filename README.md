@@ -41,16 +41,16 @@ Go through the Presentation here: [Presentation](https://prezi.com/view/Yz6cawqz
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-- Next.js 15.2.1
-- React 19.0.0
-- Axios for API requests
-- Responsive design with custom CSS
+- ⚛️ Next.js 15.2.1
+- ⚛️ React 19.0.0
+- 🌐 Axios for API requests
+- 🎨 Responsive design with custom CSS
 
 ### 🔧 Backend
-- Flask with Flask-CORS
-- Google Generative AI (Gemini 1.5 Flash)
-- OpenFDA API integration
-- Python 3.x
+- 🐍 Flask with Flask-CORS
+- 🤖 Google Generative AI (Gemini 1.5 Flash)
+- 💊 OpenFDA API integration
+- 🐍 Python 3.x
 
 ## 📂 Project Structure
 
@@ -140,11 +140,11 @@ Go through the Presentation here: [Presentation](https://prezi.com/view/Yz6cawqz
 
 ## 🔄 User Flow
 
-1. User creates an account with basic information
-2. User completes a health profile with conditions, allergies, and medications
-3. User submits medication inquiries
-4. System analyzes the medication against user's health profile
-5. User receives personalized analysis results
+1. 📝 User creates an account with basic information
+2. 🏥 User completes a health profile with conditions, allergies, and medications
+3. 🔍 User submits medication inquiries
+4. 🤖 System analyzes the medication against user's health profile
+5. 📊 User receives personalized analysis results
 
 ## 📡 API Endpoints
 
@@ -152,7 +152,9 @@ Go through the Presentation here: [Presentation](https://prezi.com/view/Yz6cawqz
 - `POST /user_profile` - Save user health profile
 - `POST /drug_analysis` - Analyze a medication for a specific user
 
-## ✨ Sample Screens
+## 📸 Screenshots/Demo
+
+💻 Live Demo - Coming Soon!
 
 - Welcome page
 
@@ -179,11 +181,11 @@ Go through the Presentation here: [Presentation](https://prezi.com/view/Yz6cawqz
 
 ## 🔮 Future Enhancements
 
-- User authentication with secure login
-- Medication scheduling and reminders
-- Interaction detection between multiple medications
-- Export and sharing of medication analysis reports
-- Mobile application with push notifications
+- 🔑User authentication with secure login
+- 🕒 Medication scheduling and reminders
+- ⚠️ Interaction detection between multiple medications
+- 📤 Export and sharing of medication analysis reports
+- 📱 Mobile application with push notifications
 
 ## 📜 License
 
