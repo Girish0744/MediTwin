@@ -29,7 +29,7 @@ Dheeraj Choudhary
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dheeraj-choudhary/)
 
 ## 🎥 Presentation 
-Watch the full demo here: [Presentation](https://prezi.com/view/Yz6cawqzLxhU9cKdCx3j/)
+Go through the Presentation here: [Presentation](https://prezi.com/view/Yz6cawqzLxhU9cKdCx3j/)
 
 ## 🚀 Features
 
