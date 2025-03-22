@@ -1,4 +1,4 @@
-# MediTwin
+# 🏥 MediTwin
 
 MediTwin is an AI-powered health companion application that provides personalized medicine insights based on user health profiles. It analyzes medications in the context of a user's specific health conditions, allergies, and current medications to deliver custom recommendations and safety information.
 
@@ -174,7 +174,7 @@ Watch the full demo here: [Presentation](https://prezi.com/view/Yz6cawqzLxhU9cKd
 
 - Architecture Diagram
 
-  ![image](https://github.com/user-attachments/assets/3f891321-4e17-4ae7-8723-8b89dd644b9f)
+![image](https://github.com/user-attachments/assets/3f891321-4e17-4ae7-8723-8b89dd644b9f)
 
 
 ## 🔮 Future Enhancements
